@@ -94,5 +94,5 @@ See the [LICENSE](LICENSE) file for the full license text.
 ---
 
 <p align="center">
-  Made with ❤️ and Python by <a href="https://github.com/ABX532">ABX532</a>
+  Made with ❤️ by <a href="https://github.com/ABX532">ABX</a>
 </p>
