@@ -1,8 +1,7 @@
-<h1 align="center">
-
+<h3 align="center">
+  
   # XGTodo
- 
-</h1>
+</h3>
 
 <p align="center">
   <img src="xgtodo.png" alt="XGTodo" width="300">
