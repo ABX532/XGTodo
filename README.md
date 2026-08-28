@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="xgtodo.png" alt="XGTodo" width="500">
+  <img src="xgtodo.png" alt="XGTodo" width="300">
 </p>
 
 <h3 align="center">A simple and lightweight Todo app built with Python and Tkinter.</h3>
@@ -31,7 +31,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="xgtodo.png" alt="XGTodo screenshot" width="500">
+  <img src="xgtodo.png" alt="XGTodo screenshot" width="300">
 </p>
 
 ## 🛠️ Requirements
@@ -39,10 +39,10 @@
 * Python 3
 * Tkinter
 
-### Debian / Ubuntu / MX Linux
+### Install Tkinter
 
 ```bash
-sudo apt install python3-tk
+pip install tkinter
 ```
 
 ## 🚀 Getting Started
