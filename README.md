@@ -9,6 +9,11 @@
 
 <h3 align="center">A simple and lightweight Todo app built with Python and Tkinter.</h3>
 
+![Python](https://img.shields.io/badge/python-3-blue)
+![License](https://img.shields.io/badge/license-GPLv3-blue)
+![Reciters](https://img.shields.io/badge/Reciters-30-1E8A4C)
+![Stars](https://img.shields.io/github/stars/MohssineX/TilawaPlayer?style=social)
+
 <p align="center">
   <a href="https://github.com/ABX532/XGTodo">GitHub</a>
   ·
