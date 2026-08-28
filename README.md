@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/python-3-blue)
   ![License](https://img.shields.io/badge/license-GPLv3-blue)
   ![Reciters](https://img.shields.io/badge/Reciters-30-1E8A4C)
-  ![Stars](https://img.shields.io/github/stars/MohssineX/TilawaPlayer?style=social)
+  ![Stars](https://img.shields.io/github/stars/ABX532/XGTodo?style=social)
 </h3>
 
 <p align="center">
