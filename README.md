@@ -49,7 +49,7 @@
 ### Install Tkinter(if not installed)
 
 ```bash
-pip install tkinter
+pip install tk
 ```
 
 ## 🚀 Getting Started
