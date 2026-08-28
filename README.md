@@ -1,154 +1,97 @@
-📝 XGTodo
+<p align="center">
+# XGTodo
+</p>
 
-XGTodo is a simple, lightweight, and easy-to-use Todo List desktop application built with Python 🐍 and Tkinter 🖥️.
+<p align="center">
+  <img src="xgtodo.png" alt="XGTodo" width="500">
+</p>
 
-It provides a clean graphical interface for creating, editing, completing, and deleting your daily tasks.
+<h3 align="center">A simple and lightweight Todo app built with Python and Tkinter.</h3>
 
-✨ Features
-➕ Add Todos — Create new tasks quickly.
-✏️ Edit Todos — Change the name of an existing task.
-✅ Complete Todos — Mark tasks as completed.
-↩️ Uncomplete Todos — Change completed tasks back to pending.
-🗑️ Delete Todos — Remove tasks you no longer need.
-💾 Automatic Saving — Your todos are saved automatically.
-📂 Persistent Storage — Todos remain available after restarting the application.
-🎨 Visual Completion Status — Completed todos are displayed differently.
-🪶 Lightweight — Uses only Python's standard library.
-🖼️ Screenshot
+<p align="center">
+  <a href="https://github.com/ABX532/XGTodo">GitHub</a>
+  ·
+  <a href="https://github.com/ABX532/XGTodo/issues">Issues</a>
+</p>
 
-🛠️ Requirements
+---
 
-Before running XGTodo, make sure you have:
+## ✨ Features
 
-🐍 Python 3
-🖥️ Tkinter
+* 📝 Simple Todo management
+* 🖥️ Clean graphical interface
+* ⚡ Lightweight and fast
+* 🐍 Built with Python
+* 🎨 Uses Tkinter
+* 📦 Minimal setup
+* 💻 Designed to stay simple and easy to use
 
-No external Python packages are required.
+## 📸 Screenshot
 
-📥 Installation
-1️⃣ Clone the repository
+<p align="center">
+  <img src="xgtodo.png" alt="XGTodo screenshot" width="500">
+</p>
+
+## 🛠️ Requirements
+
+* Python 3
+* Tkinter
+
+### Debian / Ubuntu / MX Linux
+
+```bash
+sudo apt install python3-tk
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/ABX532/XGTodo.git
-
-2️⃣ Enter the project directory
 cd XGTodo
+```
 
-3️⃣ Run XGTodo
+### 2. Run XGTodo
+
+```bash
 python3 main.py
+```
 
+That's it. No complicated setup required.
 
-🎉 That's it! XGTodo should now open in a new window.
+## 📁 Project Structure
 
-📋 Usage
-➕ Add a Todo
-Click Add Todo.
-Enter your task name.
-Click Confirm.
-Your new Todo will be saved automatically. 💾
-✅ Complete a Todo
-Select a Todo using its checkbox ☑️.
-Click Confirm.
-The Todo will be marked as completed.
-
-Completed tasks are displayed differently to make them easy to recognize. 🎨
-
-↩️ Uncomplete a Todo
-
-Changed your mind?
-
-Select a completed Todo and use Unconfirm to mark it as incomplete again.
-
-✏️ Edit a Todo
-Select the Todo you want to edit.
-Click Edit.
-Change the Todo name.
-Click Save. 💾
-🗑️ Delete a Todo
-Select one or more Todos.
-Click Delete.
-Confirm the deletion.
-
-⚠️ Deleted Todos cannot be recovered.
-
-💾 Data Storage
-
-XGTodo stores your Todo data locally using a JSON file:
-
-~/.xtodo/data.json
-
-
-Your data is stored locally on your computer and is not uploaded to a server. 🔒
-
-A Todo is stored in the following format:
-
-{
-    "task": "Example Todo",
-    "done": false
-}
-
-
-Where:
-
-📝 task — The name of the Todo.
-✅ done — Whether the Todo is completed.
-📁 Project Structure
+```text
 XGTodo/
-├── 📄 main.py
-├── 🖼️ xgtodo.png
-├── 📖 README.md
-└── ⚖️ LICENSE
+├── main.py
+├── xgtodo.png
+├── LICENSE
+└── README.md
+```
 
-🧰 Technologies
+## 🤝 Contributing
 
-XGTodo is built using Python's standard library:
+Contributions are welcome!
 
-🐍 Python 3 — Programming language
-🖥️ Tkinter — Graphical User Interface
-💾 JSON — Todo data storage
-📂 pathlib — File and directory management
-🔐 Privacy
+If you have an idea, find a bug, or want to improve the project:
 
-XGTodo is a local application.
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Commit your changes
+5. Open a Pull Request
 
-Your Todo data is stored on your own computer in:
+You can also open an [Issue](https://github.com/ABX532/XGTodo/issues) to report bugs or suggest features.
 
-~/.xtodo/data.json
+## 📄 License
 
+XGTodo is free and open-source software licensed under the **GNU General Public License v3.0**.
 
-🌐 No account is required.
+See the [LICENSE](LICENSE) file for the full license text.
 
-☁️ No cloud service is required.
+---
 
-🔒 Your Todo data stays local.
-
-🤝 Contributing
-
-Contributions are welcome! 🎉
-
-If you have an idea, find a bug, or want to improve XGTodo:
-
-🍴 Fork the repository.
-🌿 Create a new branch.
-🛠️ Make your changes.
-📤 Submit a Pull Request.
-
-Bug reports and feature suggestions are also welcome through GitHub Issues. 💡
-
-📜 License
-
-XGTodo is licensed under the GNU General Public License v3.0 (GPL-3.0).
-
-See the LICENSE file for more information.
-
-👨‍💻 Author
-
-Created by ABX532.
-
-⭐ Support
-
-If you like XGTodo, consider giving the repository a ⭐ Star on GitHub!
-
-It helps support the project and encourages future improvements. 🚀
-
-📝 XGTodo
-
-Simple tasks. Simple interface. Just get things done. 🚀
+<p align="center">
+  Made with ❤️ and Python by <a href="https://github.com/ABX532">ABX532</a>
+</p>
