@@ -1,7 +1,6 @@
-
 <p align="center">
-  
- # XGTodo
+
+  # XGTodo
  
 </p>
 
