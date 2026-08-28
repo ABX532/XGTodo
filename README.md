@@ -1,8 +1,8 @@
-<p align="center">
+<h1 align="center">
 
   # XGTodo
  
-</p>
+</h1>
 
 <p align="center">
   <img src="xgtodo.png" alt="XGTodo" width="300">
@@ -30,9 +30,9 @@
 
 ## 📸 Screenshot
 
-<p align="center">
+
   <img src="xgtodo.png" alt="XGTodo screenshot" width="300">
-</p>
+
 
 ## 🛠️ Requirements
 
